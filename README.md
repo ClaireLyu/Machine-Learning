@@ -1,2 +1,2 @@
 ### Machine-Learning
-I was a Machine Learning researcher in PARISlab at UCLA. This is a project I worked on during Spring 2020. I cleaned the data and applied Machine Learning models to predict the properties of materials using two programming languages (R and Python). I have summarized some of my findings in the powerpoint. 
+I was a Machine Learning researcher in PARISlab at UCLA. During Fall 2019, I experimented with different advanced machine learning (Random Forest, ANN, Lasso, and Elastic Net regression) on material data to reveal important patterns in the structure of materials and predict the properties of materials. I mainly used two programming languages (R and Python). I have summarized some of my findings in the powerpoint. Please feel free to check them out.
